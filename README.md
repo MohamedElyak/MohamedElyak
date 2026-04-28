@@ -7,12 +7,12 @@ Passionate about building modern, responsive and scalable web applications.
 I love turning ideas into real products with clean code and great user experience.
 </p>
 
-<p align="center">
+<!-- <p align="center">
 <a href="mailto:yourmail@gmail.com">📧 Email</a> •
 <a href="https://linkedin.com/in/yourprofile">💼 LinkedIn</a> •
 <a href="https://github.com/yourusername">💻 GitHub</a> •
 <a href="#">🌐 Portfolio</a>
-</p>
+</p> -->
 
 ---
 
