@@ -62,13 +62,13 @@ I love turning ideas into real products with clean code and great user experienc
 
 ---
 
-## 📫 Contact Me
 
-<p align="center">
+
+<!-- <p align="center">
 <a href="https://linkedin.com/in/yourprofile">LinkedIn</a> •
 <a href="mailto:yourmail@gmail.com">Email</a> •
 <a href="https://github.com/YOUR_USERNAME">GitHub</a>
-</p>
+</p> -->
 
 ---
 
