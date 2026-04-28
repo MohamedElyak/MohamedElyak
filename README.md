@@ -1,4 +1,4 @@
-```md
+
 <h1 align="center">Hi 👋, I'm Mohamed Elyakoubi</h1>
 <h3 align="center">Full Stack Developer from Morocco 🇲🇦</h3>
 
@@ -75,4 +75,3 @@ I love turning ideas into real products with clean code and great user experienc
 <p align="center">
 💡 "Code is like humor. When you have to explain it, it's bad."
 </p>
-```
